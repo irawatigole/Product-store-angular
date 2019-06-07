@@ -1,11 +1,11 @@
-.card {
+.card { 
     margin-bottom: 30px;
-}
-
-.card-footer {
+  }
+  
+  .card-footer {
     padding: 0;
-}
-
-.card-footer button {
+  }
+  
+  .card-footer button {
     cursor: pointer;
-}
+  }

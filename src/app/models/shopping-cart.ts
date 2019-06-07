@@ -21,7 +21,7 @@ export class ShoppingCart {
       let sum = 0;
       for(let productId in this.items)
         sum += this.items[productId].totalPrice;
-        return sum;
+        return sum;    
     }
 
     get totalItemsCount() {
